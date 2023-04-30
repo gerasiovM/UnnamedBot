@@ -43,7 +43,7 @@ def main():
             )
             await ctx.respond(embed=embed)
 
-    bot.run('MTA3NTc5ODQ2OTE3Mzg1NDI0OQ.')
+    bot.run()
 
 
 if __name__ == "__main__":
